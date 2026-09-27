@@ -1,0 +1,11 @@
+Feature,Importance (%)
+num__Benefit per order,5.831907685884216
+num__Order Profit Per Order,5.829827580643115
+num__Order Item Profit Ratio,5.274508216502722
+num__Days for shipment (scheduled),4.370691197179621
+num__Order Item Total,3.8840655764349656
+num__Sales per customer,3.8602954775692977
+num__Order Item Discount,3.8213633492508476
+num__Standard_Class_Flag,3.720227287541522
+num__Order_Complexity_Score,3.6421207932008275
+cat__Shipping Mode_Standard Class,3.5584900202141654
