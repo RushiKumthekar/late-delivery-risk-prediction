@@ -608,7 +608,8 @@ The resulting system is designed to support proactive identification of potentia
 ---
 
 ## Author
-
+**Hrushikesh Kumthekar**
+**Data Analyst - Intern**
 **Unified Mentor Project**
 
 **Project:** Machine Learning–Based Late Delivery Risk Prediction in Global Supply Chain Operations
