@@ -1,7 +1,5 @@
 # Machine Learning–Based Late Delivery Risk Prediction in Global Supply Chain Operations
 
-🚀 **Live Streamlit App:** https://late-delivery.streamlit.app/# Machine Learning–based Late Delivery Risk Prediction in Global Supply Chain Operations
-
 🚀 **Live Streamlit App:** https://late-delivery.streamlit.app/
 
 ## Project Overview
